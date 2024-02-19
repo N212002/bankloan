@@ -3,7 +3,7 @@
 
 ## Usage:-
 
-made by krishna
+made by krishna bhai 
 
 - Open CMD in working directory.
 - Run following command.
