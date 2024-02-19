@@ -3,6 +3,8 @@
 
 ## Usage:-
 
+made by krishna
+
 - Open CMD in working directory.
 - Run following command.
 
